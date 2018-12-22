@@ -11,7 +11,7 @@ email: zhangxiang941211@gmail.com
 github_username:  graphic-zhang  
 linkedin_public_url: graphic-zhang # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
 #disqus_username: loremipsum
-profile_picture: https://en.wikipedia.org/wiki/File:Batman_DC_Comics.png
+profile_picture: https://octodex.github.com/megacat
 
 # Build settings
 markdown: kramdown
