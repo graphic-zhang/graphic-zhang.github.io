@@ -37,9 +37,9 @@ links:
     #- title: tags
     #  url: /tags
     #  key_trigger: 4
-    - title: my resume
-      url: /resume
-      key_trigger: 2
+    #- title: my resume
+    #  url: /resume
+    #  key_trigger: 2
   section_2:
     - title: github
       url: https://www.github.com/graphic-zhang
