@@ -31,18 +31,15 @@ links:
     - title: home
       url: /
       key_trigger: 1
-    - title: my resume
-      url: /resume
-      key_trigger: 2
     #- title: series
     #  url: /series
     #  key_trigger: 3
     #- title: tags
     #  url: /tags
     #  key_trigger: 4
-    #- title: about me
-    #  url: /about
-    #  key_trigger: 2
+    - title: my resume
+      url: /resume
+      key_trigger: 2
   section_2:
     - title: github
       url: https://www.github.com/graphic-zhang
