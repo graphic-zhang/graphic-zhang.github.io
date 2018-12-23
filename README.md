@@ -1,11 +1,3 @@
-# Space Jekyll
-
-A simple and elegant Jekyll theme based on Spacemacs. The theme works well on mobile devices as well.
-
-See a live demo [here](https://victorvoid.github.io/space-jekyll-template/).
-
-![](https://github.com/victorvoid/space-jekyll-template/blob/master/screenshot.png?raw=true)
-
 # Site/User Settings
 
 customize your site in ``_config.yml``
@@ -52,8 +44,6 @@ twitter_text: 'How to speak with Lorem'
 ```
 
 ## How to insert new links on menu navigation ?
-
-![](https://github.com/victorvoid/space-jekyll-template/blob/master/src/img/menu.png)
 
 You should open `_config.yml` and change/add `links` section:
 
