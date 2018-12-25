@@ -37,16 +37,16 @@ links:
     - title: series
       url: /series
       key_trigger: 3
-    - title: about me
-      url: /about
-      key_trigger: 4
   section_2:
     - title: github
-      url: 
+      url: https://github.com/graphic-zhang
       new_tab: true
       key_trigger: g
+    - title: about me
+      url: https://graphic-zhang.github.io.resume
+      key_trigger: a
     - title: search
-      url: /search
+      url:
       key_trigger: s #WARNING: search only works with "s"
 
 # projects in header index
