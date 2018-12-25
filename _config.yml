@@ -45,9 +45,9 @@ links:
     - title: about me
       url: https://graphic-zhang.github.io/resume
       key_trigger: a
-    - title: search
-      url: ""
-      key_trigger: s #WARNING: search only works with "s"
+    #- title: search
+    #  url: ""
+    #  key_trigger: s #WARNING: search only works with "s"
 
 # projects in header index
 projects:
