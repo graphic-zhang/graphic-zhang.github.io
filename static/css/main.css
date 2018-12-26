@@ -1,5 +1,9 @@
 body {
-  font-family: "Roboto Condensed", Arial, sans-serif;
+/*  font-family: "Roboto Condensed", Arial, sans-serif;*/
+  font-family: Georgia, "Times New Roman", 
+             "Microsoft YaHei", "微软雅黑", 
+             STXihei, "华文细黑", 
+             serif;
   background: url("/static/img/subtle_dots.png");
   line-height: 1.5em;
   font-weight: 300;
@@ -61,7 +65,11 @@ div.content pre {
   padding: 10px;
   color: #FFF;
   overflow-x: auto;
-  font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+  /*font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;*/
+  font-family: Georgia, "Times New Roman", 
+             "Microsoft YaHei", "微软雅黑", 
+             STXihei, "华文细黑", 
+             serif;
   font-size: 12px;
   border: none;
 }
