@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am freelance developer. Currently doing more in backend, focused in Python and Django.
 
-email: agus[at]python.web.id
+
+- email: zhangxiang941211@gmail.com
+- This is my [resume](https://graphic-zhang.github.io/resume),if you want to hire me.
