@@ -24,9 +24,17 @@ bundle exec jekyll serve
 jekyll serve
 ```
 更加详细的，可以参考[jekyll usage](https://jekyllrb.com/docs/usage/)
-
-**前端开发：**
+#### 字体问题
+想找一个中文,英文都很漂亮的字体并不是一件很容易的事，当前网站采用的是：
+```
+font-family: Georgia, "Times New Roman", 
+             "Microsoft YaHei", "微软雅黑", 
+             STXihei, "华文细黑", 
+             serif;
+```
+#### 前端开发
 
 可以记一下这些关键词，W3C，html，css，PHP，静态网站，动态网站，数据库...
 也可以观看当前流行网站的架构，比如facebook好像是python+mysql。
 这还只是网站，作为一个产品，还有移动端(android，ios),可以说很复杂了。
+
