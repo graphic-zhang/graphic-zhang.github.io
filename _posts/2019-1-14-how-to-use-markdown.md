@@ -30,12 +30,12 @@ categories: [markdown]
 
 链接
 [网址链接](https://www.jianshu.com/p/q81RER)
-![](https://graphic-zhang.github.io/static/img/avatar.jpg) 
+![](https://graphic-zhang.github.io/static/img/avatar.jpg,图片链接) 
 
 引用
->你可以在这里写字 
->也可以在写一行 
->这样就可以连成一块了 
+> 你可以在这里写字 
+> 也可以在写一行 
+> 这样就可以连成一块了 
 
 `you can show code in this way`
 
@@ -44,9 +44,13 @@ if code is a paragraph
 you can use this way
 ```
 --- 
-分割线
+分割线 
+
 ---
-表格
+---
+---
+表格 
+
 
  Tables        | Are           | Cool  
  ------------- |:-------------:| -----:
