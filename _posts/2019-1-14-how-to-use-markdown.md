@@ -30,7 +30,7 @@ categories: [markdown]
 
 链接
 [网址链接](https://www.jianshu.com/p/q81RER)
-![](https://graphic-zhang.github.io/static/img/avatar.jpg,图片链接) 
+![](https://graphic-zhang.github.io/static/img/avatar.jpg "图片链接") 
 
 引用
 > 你可以在这里写字 
